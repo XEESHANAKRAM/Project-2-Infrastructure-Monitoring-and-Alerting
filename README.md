@@ -1,7 +1,9 @@
 # Project-2-Infrastructure-Monitoring-and-Alerting
 
-# Project: Zeeshan Akram (DevOps Engineer)
+Project: Zeeshan Akram (DevOps Engineer)
 Web: wikihelpful.com
+linkedin: https://www.linkedin.com/in/mrzeeshanakram/
+
 
 # Project 2: Infrastructure Monitoring and Alerting
 This project focuses on implementing a robust monitoring and alerting system for your company's web application using AWS CloudWatch and SNS (Simple Notification Service). By completing this project, you will gain hands-on experience in setting up monitoring for critical infrastructure metrics and leveraging notifications to stay informed about your application's performance.
